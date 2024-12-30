@@ -36,5 +36,11 @@ Caso ao reabrir o terminar a versão do node for alterada, é possível alterar 
 - estágios do versionamento:
 - - MODIFIED
 - - STAGED git add [nomeArquivo]
-- - COMMIT
+- - COMMIT git commit
 - git status
+- git diff
+## Comando que rodam online
+- git commit -m "mensagem" - atalho para fazer novos commits.
+- git push - empurrar alterações locais para o origin.
+- git push --force - empurrar de forma forçada alterações locais para o origin.
+- git push -f - a forma comprimida do comando anterior.
