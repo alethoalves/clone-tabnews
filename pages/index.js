@@ -1,6 +1,6 @@
 const Home = () => {
     return(
-        <p>Bom dia, minha grelha. Te amo!:)</p>
+        <p>Bom dia! :)</p>
     )
 }
 
